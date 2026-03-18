@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hi, I'm Rashi Wawale 👋
 
-<!--
-**rashiwawale18/rashiwawale18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student 
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=500&lines=Building+practical+digital+solutions;Frontend+focused+developer;Turning+ideas+into+usable+products" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 AI & Data Science student
+* 💡 Building practical digital solutions for real-world problems
+* 🌐 Focused and Interested in buiding IOT systems.
+* ⚙️ Exploring scalable full-stack systems
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,postgres,git,github,vscode" />
+</p>
+
+**Also working with:** Appwrite • DSA & AOA • Responsive Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🐾 AnimalResQ
+
+A web platform for reporting injured street animals and connecting reports to NGOs for faster rescue action.
+
+🔗 https://github.com/rashiwawale18/AnimalResQ
+
+---
+
+### 🛠️ FixTrack
+
+A complaint management system designed to report, track, and manage maintenance issues efficiently.
+
+🔗 
+
+---
+
+###  🌬️ IntelliFan
+
+A smart IoT system that monitors air quality and activates ventilation automatically based on different sensors readings.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashiwawale18&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashiwawale18&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rashiwawale18&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+* AI and IOT based systems
+* Data Structures & Algorithms
+* Full Stack Development
+  
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rashiwawale">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/rashiwawale18">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+📧 [rashiwawale026@gmail.com](mailto:rashiwawale026@gmail.com)
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rashiwawale18&color=blue" />
+</p>
+
+---
+
