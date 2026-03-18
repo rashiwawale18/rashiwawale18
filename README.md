@@ -49,17 +49,6 @@ A smart IoT system that monitors air quality and activates ventilation automatic
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashiwawale18&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rashiwawale18&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Currently Learning
 
 * AI and IOT based systems
