@@ -2,6 +2,8 @@
 
 ### AI & Data Science Student 
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=500&lines=Turning+ideas+into+usable+products" />
+
 ---
 
 ## 🚀 About Me
@@ -51,8 +53,6 @@ A smart IoT system that monitors air quality and activates ventilation automatic
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rashiwawale18&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashiwawale18&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rashiwawale18&theme=tokyonight&hide_border=true" />
@@ -74,6 +74,7 @@ A smart IoT system that monitors air quality and activates ventilation automatic
   <a href="https://linkedin.com/in/rashiwawale">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
   <a href="https://github.com/rashiwawale18">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
