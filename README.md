@@ -16,7 +16,7 @@
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,appwrite,netlify,python,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,appwrite,netlify,python,tensorflow,opencv,c,postgres,git,github,vscode" />
 </p>
 
 **Also working with:** Appwrite • DSA & AOA • Responsive Design
