@@ -3,6 +3,7 @@
 ### AI & Data Science Student 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=500&lines=Turning+ideas+into+usable+products" />
+
 ---
 
 ## 🚀 About Me
