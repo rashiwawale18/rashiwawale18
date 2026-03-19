@@ -8,8 +8,6 @@
 
 ## 🚀 About Me
 
-* 🎓 AI & Data Science student
-* 💡 Building practical digital solutions for real-world problems
 * 🌐 Focused and Interested in buiding IOT systems.
 * ⚙️ Exploring scalable full-stack systems
 
