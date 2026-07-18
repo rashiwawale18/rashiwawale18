@@ -33,14 +33,6 @@ A web platform for reporting injured street animals and connecting reports to NG
 
 ---
 
-### 🛠️ FixTrack
-
-A complaint management system designed to report, track, and manage maintenance issues efficiently.
-
-🔗 https://github.com/rashiwawale18/FixTrack
-
----
-
 ###  🌬️ IntelliFan
 
 A smart IoT system that monitors air quality and activates ventilation automatically based on different sensors readings.
