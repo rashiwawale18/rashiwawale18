@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,appwrite,netlify,python,tensorflow,opencv,c,postgres,git,github,vscode" />
 </p>
 
-**Also working with:** Appwrite • DSA & AOA • Responsive Design
+**Also working with:** DSA & AOA • Responsive Design • System Design
 
 ---
 
